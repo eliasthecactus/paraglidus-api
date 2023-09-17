@@ -1,0 +1,32 @@
+# Binäre Dateien
+*.exe
+*.dll
+*.pdb
+
+# NuGet-Pakete
+packages/
+
+# Benutzerdaten und Anmeldeinformationen
+*.suo
+*.user
+*.suo
+*.user
+*.sln.docstates
+
+# Visual Studio-Dateien
+.vscode/
+.vs/
+*_i.c
+*_p.c
+*.suo
+*.sln.docstates
+
+# Benutzer-Spezifische Ordner
+node_modules/
+bower_components/
+
+# Erzeugte Dateien
+bin/
+obj/
+Debug/
+Release/
