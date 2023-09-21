@@ -7,9 +7,7 @@
     <br/>
     <br/>
     <a href="https://github.com/eliasthecactus/paraglidus-api">View Demo</a>
-    .
     <a href="https://github.com/eliasthecactus/paraglidus-api/issues">Report Bug</a>
-    .
     <a href="https://github.com/eliasthecactus/paraglidus-api/issues">Request Feature</a>
   </p>
 </p>
