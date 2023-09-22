@@ -6,11 +6,11 @@ namespace api.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class ExecricseController : ControllerBase
+    public class ExerciseController : ControllerBase
     {
         private readonly ExerciseDbContext dbContext;
         private readonly List<string> possibleTopics = new List<string> { "wetterkunde", "fluglehre", "materialkunde", "gesetzgebung", "flugpraxis" };
-        public ExecricseController(ExerciseDbContext dbContext)
+        public ExerciseController(ExerciseDbContext dbContext)
         {
             this.dbContext = dbContext;
         }
